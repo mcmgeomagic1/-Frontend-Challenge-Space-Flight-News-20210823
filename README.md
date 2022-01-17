@@ -1,7 +1,7 @@
 # Frontend Challenge Space Flight News 20210823 
 ## challenge by coodesh
 
-![presentation]()
+![presentation](presentation.png)
 
 ### About
 
