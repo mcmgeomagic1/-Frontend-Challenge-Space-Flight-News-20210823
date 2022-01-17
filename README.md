@@ -13,7 +13,8 @@ This is a web application to consume  information from the [Space Flight News AP
 ---
 
 ### Instalation
-* npm install
-* npm start
-
+```Bash
+  npm install
+  npm start
+```
 
